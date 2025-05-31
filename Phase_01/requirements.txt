@@ -1,9 +1,0 @@
-kaggle
-scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-ipykernel
-json
